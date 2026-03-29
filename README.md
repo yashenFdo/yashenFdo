@@ -23,9 +23,11 @@ Currently focused on **problem solving, system engineering, and mindfulness** �
 
 ## 🔗 Previous GitHub
 
-You can also find my older repositories at my previous GitHub account:  
+⚠️ Lost access to previous GitHub account (Jan 2026).  
 [https://github.com/Yashenf](https://github.com/Yashenf)  
-*(Note: This account is inactive due to 2FA authentication issues.)*
+
+> Actively contributing here since Feb 2026.  
+> Some repositories are forked/migrated.
 
 ---
 
@@ -73,12 +75,16 @@ You can also find my older repositories at my previous GitHub account:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yashenFdo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+> ⚠️ Note: In January 2026, I lost access to my previous GitHub account due to a 2FA issue.  
+> Since February 2026, I have been actively using this account.  
+> Some repositories here are forked or migrated from my previous account.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashenFdo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=yashenFdo&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashenFdo&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yashenFdo&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=yashenFdo&style=for-the-badge" />
 </p>
