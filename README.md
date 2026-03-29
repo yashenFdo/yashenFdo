@@ -21,6 +21,14 @@ Currently focused on **problem solving, system engineering, and mindfulness** �
 
 ---
 
+## 🔗 Previous GitHub
+
+You can also find my older repositories at my previous GitHub account:  
+[https://github.com/Yashenf](https://github.com/Yashenf)  
+*(Note: This account is inactive due to 2FA authentication issues.)*
+
+---
+
 ## 💻 Tech Stack
 
 ### 🧠 Languages
@@ -65,11 +73,9 @@ Currently focused on **problem solving, system engineering, and mindfulness** �
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yashenFdo&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=yashenFdo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![](https://nirzak-streak-stats.vercel.app/?user=yashenFdo&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashenFdo&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashenFdo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ---
 
